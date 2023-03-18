@@ -1,6 +1,10 @@
-p{
-    text-align: center;
-}
 body{
     text-align: center;
+}
+main{
+    background-color: #000814;
+}
+p{
+    color: #ffd60a;
+    font-size: 2em;
 }
