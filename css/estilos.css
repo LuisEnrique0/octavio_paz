@@ -1,10 +1,11 @@
 body{
     text-align: center;
+    text-decoration-color: #264653;
+    
 }
 main{
-    background-color: #000814;
+    background-color: #fefae0;
 }
 p{
-    color: #ffd60a;
-    font-size: 2em;
+    font-size: 1.5em;
 }
